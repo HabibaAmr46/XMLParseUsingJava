@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CATALOGUE>
+    <CD>
+        <TITLE>cd1</TITLE>
+        <ARTIST>amr</ARTIST>
+        <COUNTRY>usa</COUNTRY>
+        <COMPANY>face</COMPANY>
+        <PRICE>20.0</PRICE>
+        <YEAR>2014</YEAR>
+    </CD>
+    <CD>
+        <TITLE>cd2</TITLE>
+        <ARTIST>sheren</ARTIST>
+        <COUNTRY>egypt</COUNTRY>
+        <COMPANY>mac</COMPANY>
+        <PRICE>50.0</PRICE>
+        <YEAR>2016</YEAR>
+    </CD>
+    <CD>
+        <TITLE>cd3</TITLE>
+        <ARTIST>hamaky</ARTIST>
+        <COUNTRY>saudi</COUNTRY>
+        <COMPANY>coca</COMPANY>
+        <PRICE>30.0</PRICE>
+        <YEAR>2019</YEAR>
+    </CD>
+</CATALOGUE>
